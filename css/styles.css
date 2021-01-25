@@ -470,6 +470,10 @@ header {
 }
 .subscribe {
   margin-left: 93px;
+  width: 570px;
+}
+.subscribe-form {
+  display: flex;
 }
 .subscribe-email {
   width: 358px;
@@ -554,9 +558,6 @@ header {
   line-height: 1.17;
   letter-spacing: 0.01em;
 }
-.form-label:last-child {
-  margin-bottom: 20px;
-}
 .form-container {
   position: relative;
   margin-top: 4px;
@@ -633,6 +634,7 @@ textarea {
 }
 .checkbox-label {
   display: inline-block;
+  margin-top: 10px;
 }
 .checkbox-label::before {
   content: "";
