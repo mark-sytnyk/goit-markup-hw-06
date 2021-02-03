@@ -469,7 +469,7 @@ header {
   color: var(--primery-white-color);
 }
 .subscribe {
-  margin-left: 93px;
+  margin-left: auto;
   width: 570px;
 }
 .subscribe-form {
